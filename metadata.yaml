@@ -1,0 +1,28 @@
+_repo: The-Money-Gods_38472
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Clark, Ellery H. (Ellery Harding)
+    alias: Clark, Ellery Harding
+    birthdate: 1874
+    deathdate: 1949
+    gutenberg_agent_id: '37419'
+    url: http://www.gutenberg.org/2009/agents/37419
+description: ''
+gutenberg_issued: '2012-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38472'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Banks and banking -- New York (State) -- New York -- Fiction'
+- !lcsh 'Capitalists and financiers -- Fiction'
+title: The Money Gods
+url: http://www.gutenberg.org/ebooks/38472
